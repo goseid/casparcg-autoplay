@@ -1,0 +1,16 @@
+{
+  "name": "casparcg-autoplay",
+  "version": "1.0.0",
+  "description": "Auto play template when CasparCG is available",
+  "main": "autoplay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node autoplay.js"
+  },
+  "keywords": [
+    "CasparCG",
+    "autoplay"
+  ],
+  "author": "Greg Oseid",
+  "license": "MIT"
+}
